@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_lavender.mk
+    $(LOCAL_DIR)/awaken_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
     awaken_lavender-user \
